@@ -52,4 +52,6 @@ COMMENT{END} -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=normanwhittlecliff&show_icons=true&locale=en" alt="normanwhittlecliff" /></p>
 
+<!-- COMMENT{BEGIN}
 [![Norman's GitHub stats](https://github-readme-stats.vercel.app/api?username=normanwhittlecliff)](https://github.com/normanwhittlecliff/github-readme-stats)
+COMMENT{END} --> 

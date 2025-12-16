@@ -20,11 +20,11 @@ COMMENT{END} -->
 <h1 align="center">💜 Howdy, I'm Norman!</h1>
 <h3 align="center">A software development student</h3>
 
-- 🌱 I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST)**
+- 🌱 I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST).**
 
-- 💻 Languages I code in: **Java, Python and SQL**
+- 💻 Languages I code in: **Java, Python and SQL.**
 
-- 💬 Languages I can speak: **English, Portuguese and Japanese (learning)**
+- 💬 Languages I can speak: **English, Portuguese and Japanese (learning).**
 
 - 📫 How to reach me **normanwhittleclif@gmail.com**
 

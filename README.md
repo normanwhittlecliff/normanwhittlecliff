@@ -22,7 +22,7 @@ COMMENT{END} -->
 
 - 🌱 I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST)**
 
-- 💬 Lanugages I code in: **Java, Python and SQL**
+- 💻 Languages I code in: **Java, Python and SQL**
 
 - 💬 Languages I can speak: **English, Portuguese and Japanese (learning)**
 

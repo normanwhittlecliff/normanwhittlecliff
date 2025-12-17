@@ -26,7 +26,7 @@ COMMENT{END} -->
 
 - 💬 Languages I can speak: **English, Portuguese and Japanese (learning).**
 
-- 📫 How to reach me **normanwhittleclif@gmail.com**
+- 📫 How to reach me: **normanwhittleclif@gmail.com**
 
 <!-- COMMENT{BEGIN}
 

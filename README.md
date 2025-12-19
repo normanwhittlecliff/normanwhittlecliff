@@ -24,7 +24,10 @@ COMMENT{END} -->
 
 - 💻 Languages I code in: **Java, Python and SQL.**
 
-- 💬 Languages I can speak: **English, Portuguese and Japanese (learning).**
+- 💬 Languages I can speak:
+  - English
+  - Portuguese (Português)
+  - 日本語 (Japanese)
 
 - 📫 How to reach me: **normanwhittleclif@gmail.com**
 

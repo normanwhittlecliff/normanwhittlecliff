@@ -29,7 +29,7 @@ COMMENT{END} -->
 
 - 💬 Languages I can speak:
   - English    |  English
-  - Portgugês  |  Portuguêse
+  - Portgugês  |  Portuguese
   - 日本語      |  Japanese
 
 - 📫 How to reach me: **normanwhittleclif@gmail.com**

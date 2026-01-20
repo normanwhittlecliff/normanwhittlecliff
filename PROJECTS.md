@@ -8,7 +8,6 @@
 ## 251029 - Instagram Auto Uploader Script
 - **Go to** [repository](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script)
 - **ID:** 251029
-- **Started:** Oct 29, 2025
 - **Tech:** Python
 - **Status:** Finished
 - **Description:** A Python script that automatically uploads images and videos from a directory (including subfolders) to Instagram.
@@ -18,10 +17,18 @@
 ## 250612 - Folder Creator by Date Script
 - **Go to** [repository](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/)
 - **ID:** 2510612
-- **Started:** Jun 12, 2025
 - **Tech:** Python
 - **Status:** Finished
 - **Description:** A simple Python script that goes through date named files, create folders for the dates and moves the files to their folders.
+
+---
+
+## 250611 - Removing Text For Date Script
+- **Go to** [repository](https://github.com/normanwhittlecliff/250611-Removing-Text-For-Date-Script)
+- **ID:** 250611
+- **Tech:** Python
+- **Status:** Finished
+- **Description:** A simple Python script that renames every single file in a given folder by removing the text in front of it until it hits a number. It's for files with the date in the name, but with words or letters in front of the date.
 
 <!-- COMMENT{BEGIN}
 

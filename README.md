@@ -81,9 +81,8 @@ A complete list of my projects, IDs, and notes
 
 | ID | Name | Description | Status |
 |----|-----------|-------------|--------|
-| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | ✅ Finished |
-| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | 🚧 In progress |
-| 250901 | 2D Platformer | College project game in Java | ✅ Finished |
+| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | ✅ [Finished](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script) |
+| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | ✅ [Finished](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/) |
 
 ---
 
@@ -92,6 +91,9 @@ A complete list of my projects, IDs, and notes
 - Repos may be renamed, IDs stay forever
 
 <!-- COMMENT{BEGIN}
+
+🚧 In progress
+
 [![Norman's GitHub stats](https://github-readme-stats.vercel.app/api?username=normanwhittlecliff)](https://github.com/normanwhittlecliff/github-readme-stats)
 2026-01-12 ...
 COMMENT{END} --> 

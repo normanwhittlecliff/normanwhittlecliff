@@ -22,17 +22,15 @@ COMMENT{END} -->
 
 - 🌱 I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST).**
 
-- 💻 Languages I code in:
-  - **Java**
-  - **Python**
-  - **SQL**
-
 - 💬 Languages I can speak:
   - English    |  English
   - Português  |  Portuguese
   - 日本語      |  Japanese
 
-- 📫 How to reach me: **normanwhittleclif@gmail.com**
+- 💻 Languages I code in:
+  - **Java**
+  - **Python**
+  - **SQL**
 
 <!-- COMMENT{BEGIN}
 
@@ -50,14 +48,7 @@ COMMENT{END} -->
 
 COMMENT{END} --> 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/normanwhittlecliff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@normanwhittlecliff" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@NormanWhittlecliff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@normanwhittlecliff" height="30" width="40" /></a>
-<a href="https://discord.gg/purplemug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="purplemug" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -78,11 +69,39 @@ COMMENT{END} -->
   </tr>
 </table>
 
-<h3 align="left">My GitHub Stats:</h3>
+## My GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=normanwhittlecliff&show_icons=true&locale=en" alt="normanwhittlecliff" /></p>
+
+## 📦 Projects
+A complete list of my projects, IDs, and notes  
+👉 [See PROJECTS.md](./PROJECTS.md)
+
+### 📦 Project Index
+
+| ID | Name | Description | Status |
+|----|-----------|-------------|--------|
+| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | ✅ Finished |
+| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | 🚧 In progress |
+| 250901 | 2D Platformer | College project game in Java | ✅ Finished |
+
+---
+
+### 🧠 Notes
+- Project IDs = start date (YYMMDD)
+- Repos may be renamed, IDs stay forever
 
 <!-- COMMENT{BEGIN}
 [![Norman's GitHub stats](https://github-readme-stats.vercel.app/api?username=normanwhittlecliff)](https://github.com/normanwhittlecliff/github-readme-stats)
 2026-01-12 ...
 COMMENT{END} --> 
+
+## Connect with me:
+
+- 📫 How to reach me: **normanwhittleclif@gmail.com**
+
+<p align="left">
+<a href="https://instagram.com/normanwhittlecliff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@normanwhittlecliff" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@NormanWhittlecliff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@normanwhittlecliff" height="30" width="40" /></a>
+<a href="https://discord.gg/purplemug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="purplemug" height="30" width="40" /></a>
+</p>

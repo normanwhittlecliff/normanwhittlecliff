@@ -81,8 +81,8 @@ A complete list of my projects, IDs, and notes
 
 | ID | Name | Description | Status |
 |----|-----------|-------------|--------|
-| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | ✅ [Finished](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script) |
-| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | ✅ [Finished](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/) |
+| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | [Finished](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script) |
+| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | [Finished](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/) |
 
 ---
 

@@ -75,7 +75,7 @@ COMMENT{END} -->
 
 ## 📦 Projects
 A complete list of my projects, IDs, and notes  
-👉 [See PROJECTS.md](./PROJECTS.md)
+👉 [See PROJECTS.md](https://github.com/normanwhittlecliff/normanwhittlecliff/blob/main/PROJECTS.md)
 
 ### 📦 Project Index
 

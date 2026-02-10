@@ -48,6 +48,25 @@ COMMENT{END} -->
 
 COMMENT{END} --> 
 
+## 📦 Projects
+A complete list of my projects, IDs, and notes  
+👉 [See PROJECTS.md](https://github.com/normanwhittlecliff/normanwhittlecliff/blob/main/PROJECTS.md)
+
+### 📦 Project Index
+
+| ID | Name | Description | Status |
+|----|-----------|-------------|--------|
+| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | [Finished](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script) |
+| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | [Finished](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/) |
+| 250611 | Removing Text For Date | Renames every file in folder. For files w/ the date in the name, but with words or letters in front of the date. | [Finished](https://github.com/normanwhittlecliff/250611-Removing-Text-For-Date-Script) |
+| 240827 | Simple Auto Clicker | Simple Auto Clicker script in Python. Run it, press "P". | [Finished](https://github.com/normanwhittlecliff/240827-Simple-Auto-Clicker-Script) |
+
+---
+
+### 🧠 Notes
+- Project IDs = start date (YYMMDD)
+- Repos may be renamed, IDs stay forever
+
 ## Languages and Tools:
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -72,25 +91,6 @@ COMMENT{END} -->
 ## My GitHub Stats:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=normanwhittlecliff&show_icons=true&locale=en" alt="normanwhittlecliff" /></p>
-
-## 📦 Projects
-A complete list of my projects, IDs, and notes  
-👉 [See PROJECTS.md](https://github.com/normanwhittlecliff/normanwhittlecliff/blob/main/PROJECTS.md)
-
-### 📦 Project Index
-
-| ID | Name | Description | Status |
-|----|-----------|-------------|--------|
-| 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | [Finished](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script) |
-| 250612 | Folder Creator by Date Script | Script read files names, create folders for the dates and moves the files to their folders. | [Finished](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/) |
-| 250611 | Removing Text For Date | Renames every file in folder. For files w/ the date in the name, but with words or letters in front of the date. | [Finished](https://github.com/normanwhittlecliff/250611-Removing-Text-For-Date-Script) |
-| 240827 | Simple Auto Clicker | Simple Auto Clicker script in Python. Run it, press "P". | [Finished](https://github.com/normanwhittlecliff/240827-Simple-Auto-Clicker-Script) |
-
----
-
-### 🧠 Notes
-- Project IDs = start date (YYMMDD)
-- Repos may be renamed, IDs stay forever
 
 <!-- COMMENT{BEGIN}
 

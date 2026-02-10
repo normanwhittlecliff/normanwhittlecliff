@@ -51,6 +51,8 @@ COMMENT{END} -->
 ## 📦 Projects
 A complete list of my projects, IDs, and notes  
 👉 [See PROJECTS.md](https://github.com/normanwhittlecliff/normanwhittlecliff/blob/main/PROJECTS.md)
+- Project IDs = start date (YYMMDD)
+- Repos may be renamed, IDs stay forever
 
 ### 📦 Project Index
 
@@ -63,9 +65,11 @@ A complete list of my projects, IDs, and notes
 
 ---
 
+<!-- COMMENT{BEGIN}
 ### 🧠 Notes
 - Project IDs = start date (YYMMDD)
 - Repos may be renamed, IDs stay forever
+-->
 
 ## Languages and Tools:
 <p align="left"> 

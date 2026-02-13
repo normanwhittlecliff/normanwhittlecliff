@@ -9,6 +9,7 @@
 - **Go to** [repository](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script)
 - **ID:** 251029
 - **Tech:** Python
+- **Tags**: script; automation; instagram;
 - **Status:** Finished
 - **Description:** A Python script that automatically uploads images and videos from a directory (including subfolders) to Instagram.
 

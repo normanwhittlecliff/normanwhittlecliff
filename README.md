@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # The code below shows my profil trophies. It didn't work when I tried it. Maybe I have no trophies to show.
 <p align="left"> <a href="https://github.com/normanwhittlecliff?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=normanwhittlecliff" alt="normanwhittlecliff" /></a> </p>
 
-#8
+#9
 
 COMMENT{END} -->
 

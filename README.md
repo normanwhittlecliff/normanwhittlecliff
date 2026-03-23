@@ -60,6 +60,7 @@ A complete list of my projects, IDs, and notes
 
 | ID | Name | Description | Status |
 |----|-----------|-------------|--------|
+| 260322 | TOC Generator for Markdown Files | Generates a TOC in a markdown file | [Finished](https://github.com/normanwhittlecliff/260322-Markdown-TOC-Generator) |
 | 251029 | Instagram Auto-Uploader | Script to automate Instagram posts | [Finished](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script) |
 | 250612 | Folder Creator by Date Script | Script reads file name, create folder for the date and moves the file to their folder. For every file in a given path. | [Finished](https://github.com/normanwhittlecliff/250612-Folder-Creator-by-Date-Script/) |
 | 250611 | Removing Text For Date | Renames every file in folder. For files w/ the date in the name, but with words or letters in front of the date. | [Finished](https://github.com/normanwhittlecliff/250611-Removing-Text-For-Date-Script) |

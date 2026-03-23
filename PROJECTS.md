@@ -5,6 +5,17 @@
 
 ---
 
+## 260322 - TOC Generator for Markdown Files
+- **Go to** [repository](https://github.com/normanwhittlecliff/260322-Markdown-TOC-Generator)
+- **ID:** 260322
+- **Tech:** Python
+- **Tags**: script; automation; markdown;
+- **Status:** Finished
+- **Description:** Automatically generates and maintains a **Table of Contents (TOC)** for my personal markdown diary.
+
+
+---
+
 ## 251029 - Instagram Auto Uploader Script
 - **Go to** [repository](https://github.com/normanwhittlecliff/251029-Instagram-Auto-Uploader-Script)
 - **ID:** 251029

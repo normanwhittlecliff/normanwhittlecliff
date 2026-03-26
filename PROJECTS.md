@@ -15,7 +15,7 @@
 
 ---
 
-## 260317 - Coffe-Machine Interface
+## 260317 - Coffee-Machine Interface
 - **Go to** [repository](https://github.com/normanwhittlecliff/260317-Coffee-Machine-Interface)
 - **ID:** 260317
 - **Tech:** Java

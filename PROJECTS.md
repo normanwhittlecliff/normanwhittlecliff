@@ -19,7 +19,7 @@
 - **Go to** [repository](https://github.com/normanwhittlecliff/260317-Coffee-Machine-Interface)
 - **ID:** 260317
 - **Tech:** Java
-- **Tags**: game; college/ ihm
+- **Tags**: game; college; ihm
 - **Status:** In Progress
 - **Description:** A 2D game project for my Human-Machine Interface (IHM) college subject.
 

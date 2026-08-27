@@ -22,14 +22,14 @@ COMMENT{END} -->
 <h1 align="center">💜 Howdy, I'm Norman!</h1>
 <h3 align="center">A fullstack developer student</h3>
 
-- 🌱 I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST).**
+ I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST).**
 
-- 💬 Languages I can speak:
+ Languages I can speak:
   - English    |  English
   - Português  |  Portuguese
   - 日本語      |  Japanese
 
-- 💻 Languages I code:
+-  Languages I code:
   - **Java**
   - **Python**
   - **SQL**
@@ -50,13 +50,13 @@ COMMENT{END} -->
 
 COMMENT{END} --> 
 
-## 📦 Projects
+##  Projects
 A complete list of my projects, IDs, and notes  
-👉 [See PROJECTS.md](https://github.com/normanwhittlecliff/normanwhittlecliff/blob/main/PROJECTS.md)
+■ [See PROJECTS.md](https://github.com/normanwhittlecliff/normanwhittlecliff/blob/main/PROJECTS.md)
 - Project IDs = start date (YYMMDD)
 - Repos may be renamed, IDs stay forever
 
-### 📦 Project Index
+### Project Index
 
 | ID | Name | Description | Status |
 |----|-----------|-------------|--------|
@@ -110,7 +110,7 @@ COMMENT{END} -->
 
 ## Connect with me:
 
-- 📫 How to reach me: **normanwhittlecliff@gmail.com**
+-  How to reach me: **normanwhittlecliff@gmail.com**
 
 <p align="left">
 <a href="https://instagram.com/normanwhittlecliff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@normanwhittlecliff" height="30" width="40" /></a>

@@ -29,7 +29,7 @@ COMMENT{END} -->
   - Português  |  Portuguese
   - 日本語      |  Japanese
 
--  Languages I code:
+Languages I code:
   - **Java**
   - **Python**
   - **SQL**

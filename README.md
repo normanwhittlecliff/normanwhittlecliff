@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 COMMENT{END} -->
 
-<h1 align="center">💜 Howdy, I'm Norman!</h1>
+<h1 align="center">Howdy, I'm Norman!</h1>
 <h3 align="center">A fullstack developer student</h3>
 
  I’m currently studying at the **Federal Rural University of Pernambuco (UFRPE)** in the **Academic Unit of Serra Talhada (UAST).**

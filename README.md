@@ -17,6 +17,26 @@ Here are some ideas to get you started:
 
 #43
 
+
+NEW IMPROVED SCENERAY FOR MY GITHUB PROFILE?
+
+<div align="center">
+  <img src="https://art.pixilart.com/sr2f3c8967713aws3.gif" alt="Exemplo de GIF" width="500" height="300" />
+</div>
+
+###
+
+<div align="center">
+  <a href="mailto:giangiardileila@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/leilagiangiardi/"> 
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
+
+###
+
 COMMENT{END} -->
 
 <h1 align="center">Howdy, I'm Norman!</h1>
